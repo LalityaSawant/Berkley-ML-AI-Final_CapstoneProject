@@ -1,7 +1,7 @@
 # Repository: Berkley-ML-AI-Final_CapstoneProject
 
 ## This repository contains a project completed for Berkley AI ML course
-#####                                                  Author - [Lalitya Sawant]
+#####                                                  Author - Lalitya Sawant
 
 ### Project Title:  **Sales Forecasting for Walmart dataset**
 
