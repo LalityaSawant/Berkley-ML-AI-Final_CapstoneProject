@@ -192,17 +192,15 @@ For the final time series model, we utilized the auto_arima algorithm, identifyi
 ### Part 1 project result Visualization:
 ![Auto-ARIMA prediction](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Images/Auto-ARIMA-prediction.png)
 
-
-#### Outline of project
-- [CapstoneProject_Berkley.ipynb](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Final_CapstoneProject_Berkley.ipynb)
-
-
 #### Next steps
 **What suggestions do you have for next steps?**
 
 The predictions from the above model exhibit a slightly lower trend than the test data. Further tuning or exploring alternative algorithms may help achieve a closer alignment between the predictions and the test data.
 
 # Finetuning on the previous project progress
+
+### Project file / notebook reference:
+- [CapstoneProject_Berkley.ipynb](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Final_CapstoneProject_Berkley.ipynb)
 
 ## Overview
 The previous iteration of the sales forecasting model has shown a slightly lower trend than the test data. To enhance the model's performance and achieve a closer alignment with the test data, I have undertaken further steps in model tuning and exploration of alternative algorithms.
