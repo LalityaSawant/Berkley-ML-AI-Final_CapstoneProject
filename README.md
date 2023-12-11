@@ -190,11 +190,11 @@ For the final time series model, we utilized the auto_arima algorithm, identifyi
 **Total fit time:** 10.236 seconds
 
 ### RESULT:
-![Auto-ARIMA prediction]([(https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Images/Auto-ARIMA-prediction.png)])
+![Auto-ARIMA prediction](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Images/Auto-ARIMA-prediction.png)
 
 
 #### Outline of project
-- [CapstoneProject_Berkley.ipynb](/Images/Auto-ARIMA-prediction.png)
+- [CapstoneProject_Berkley.ipynb](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Final_CapstoneProject_Berkley.ipynb)
 
 
 #### Next steps
