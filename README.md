@@ -239,7 +239,7 @@ Two deep learning models, Long Short-Term Memory (LSTM) and Gated Recurrent Unit
 **Ensemble Modeling:** Exploration of ensemble modeling can be conducted, combining the strengths of multiple models to enhance predictive performance.
 
 
-## In conclusion, 
+## In conclusion:
 The current iteration has seen progress in the exploration, tuning, and experimentation of models.
 Exponential smoothing and LSTM models performed better than the previously used ARIMA model on the Walmart sales forecasting data.
 
