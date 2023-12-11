@@ -1,4 +1,4 @@
-# Repository: Berkley-ML-AI-CapstoneProject
+# Repository: Berkley-ML-AI-Final_CapstoneProject
 
 ## This repository contains a project completed for Berkley AI ML course
 #####                                                  Author - [Lalitya Sawant]
