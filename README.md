@@ -194,7 +194,7 @@ For the final time series model, we utilized the auto_arima algorithm, identifyi
 
 
 #### Outline of project
-- [CapstoneProject_Berkley.ipynb](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Final_CapstoneProject_Berkley.ipynb)
+- [CapstoneProject_Berkley.ipynb](Images/Auto-ARIMA-prediction.png)
 
 
 #### Next steps
