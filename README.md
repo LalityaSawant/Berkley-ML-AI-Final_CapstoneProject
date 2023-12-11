@@ -189,9 +189,12 @@ For the final time series model, we utilized the auto_arima algorithm, identifyi
 
 **Total fit time:** 10.236 seconds
 
+### RESULT:
+![Auto-ARIMA prediction]([(https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Images/Auto-ARIMA-prediction.png)])
+
 
 #### Outline of project
-- [CapstoneProject_Berkley.ipynb: ](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Final_CapstoneProject_Berkley.ipynb)
+- [CapstoneProject_Berkley.ipynb](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Final_CapstoneProject_Berkley.ipynb)
 
 
 #### Next steps
@@ -210,7 +213,7 @@ The previous iteration of the sales forecasting model has shown a slightly lower
 The Exponential Smoothing model was applied to the dataset, revealing promising results in terms of prediction accuracy. This method leverages a weighted average of past observations, assigning exponentially decreasing weights to older data points. The adaptability of Exponential Smoothing makes it effective in capturing trends and seasonality in time-series data.
 
 ### LSTM and GRU Models
-Two deep learning models, Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU), were implemented to further explore the dataset. Both LSTM and GRU exhibited notable improvements in prediction accuracy. Long Short-Term Memory networks are known for their ability to capture long-term dependencies in sequential data, while Gated Recurrent Units, a more efficient variant of LSTM, also demonstrated competitive performance.
+Two deep learning models, Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU), were implemented to further explore the dataset. Both LSTM and GRU exhibited notable improvements in prediction accuracy. Long Short-Term Memory Networks are known for their ability to capture long-term dependencies in sequential data, while Gated Recurrent Units, a more efficient variant of LSTM, also demonstrated competitive performance.
 
 ## Recommendations / Lessons Learned for Current Iteration:
 
@@ -228,8 +231,9 @@ Two deep learning models, Long Short-Term Memory (LSTM) and Gated Recurrent Unit
 **Ensemble Modeling:** Initial exploration of ensemble modeling has been conducted, combining the strengths of multiple models to enhance predictive performance. Further refinement is underway.
 
 
-In conclusion, the current iteration has seen progress in the exploration, tuning, and experimentation of models.
-Expnential smoothing and LSTM models performed better than previously used ARIMA model on the walmart sales forecasting data.
+## In conclusion, 
+The current iteration has seen progress in the exploration, tuning, and experimentation of models.
+Exponential smoothing and LSTM models performed better than the previously used ARIMA model on the Walmart sales forecasting data.
 
 
 ##### Contact and Further Information
