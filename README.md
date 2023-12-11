@@ -189,7 +189,7 @@ For the final time series model, we utilized the auto_arima algorithm, identifyi
 
 **Total fit time:** 10.236 seconds
 
-### RESULT:
+### Part 1 project result Visualization:
 ![Auto-ARIMA prediction](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Images/Auto-ARIMA-prediction.png)
 
 
@@ -212,8 +212,18 @@ The previous iteration of the sales forecasting model has shown a slightly lower
 ### Exponential Smoothing
 The Exponential Smoothing model was applied to the dataset, revealing promising results in terms of prediction accuracy. This method leverages a weighted average of past observations, assigning exponentially decreasing weights to older data points. The adaptability of Exponential Smoothing makes it effective in capturing trends and seasonality in time-series data.
 
+#### Result Visualization:
+![Exponential-Smoothing prediction](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Images/Exponential_smoothing-prediction.png)
+
+
 ### LSTM and GRU Models
 Two deep learning models, Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU), were implemented to further explore the dataset. Both LSTM and GRU exhibited notable improvements in prediction accuracy. Long Short-Term Memory Networks are known for their ability to capture long-term dependencies in sequential data, while Gated Recurrent Units, a more efficient variant of LSTM, also demonstrated competitive performance.
+
+#### Result Visualization:
+![CNN-LSTM prediction](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Images/LSTM-prediction.png)
+
+![CNN-GRU prediction](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Images/GRU-prediction.png)
+
 
 ## Recommendations / Lessons Learned for Current Iteration:
 
