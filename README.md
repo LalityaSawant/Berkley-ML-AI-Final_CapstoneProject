@@ -238,7 +238,7 @@ Two deep learning models, Long Short-Term Memory (LSTM) and Gated Recurrent Unit
 
 ## Further steps that can be tested:
 
-**Ensemble Modeling:** Initial exploration of ensemble modeling has been conducted, combining the strengths of multiple models to enhance predictive performance. Further refinement is underway.
+**Ensemble Modeling:** Exploration of ensemble modeling can be conducted, combining the strengths of multiple models to enhance predictive performance.
 
 
 ## In conclusion, 
