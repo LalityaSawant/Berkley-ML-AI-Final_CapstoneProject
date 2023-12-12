@@ -1,7 +1,12 @@
 # Repository: Berkeley-ML-AI-Final_CapstoneProject
 
-## This repository contains a project completed for Berkley AI ML course
+## This repository contains a project completed for Berkeley AI ML course
 #####                                                  Author - Lalitya Sawant
+### Project notebook and presentation quick links:
+- [CapstoneProject_Berkley.ipynb](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Final_CapstoneProject_Berkley.ipynb)
+
+- [Project Presentation - PDF Format](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/BerkeleyAIMLCapstoneProject-SalesForecasting.pdf)
+- [Project Presentation - Slides Format](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/BerkeleyAIMLCapstoneProject-SalesForecasting.pptx)
 
 ### Project Title:  **Sales Forecasting for Walmart dataset**
 
@@ -193,17 +198,11 @@ For the final time series model, we utilized the auto_arima algorithm, identifyi
 ![Auto-ARIMA prediction](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Images/Auto-ARIMA-prediction.png)
 
 #### Next steps
-**What suggestions do you have for next steps?**
+**What suggestions do you have for the next steps?**
 
 The predictions from the above model exhibit a slightly lower trend than the test data. Further tuning or exploring alternative algorithms may help achieve a closer alignment between the predictions and the test data.
 
 # Finetuning on the previous project progress
-
-### Project file / notebook reference:
-- [CapstoneProject_Berkley.ipynb](https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/Final_CapstoneProject_Berkley.ipynb)
-
-- [Project Presentation - PDF Format] (https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/BerkeleyAIMLCapstoneProject-SalesForecasting.pdf)
-- [Project Presentation - Slides Format] (https://github.com/LalityaSawant/Berkley-ML-AI-Final_CapstoneProject/blob/main/BerkeleyAIMLCapstoneProject-SalesForecasting.pptx)
 
 ## Overview
 The previous iteration of the sales forecasting model has shown a slightly lower trend than the test data. To enhance the model's performance and achieve a closer alignment with the test data, I have undertaken further steps in model tuning and exploration of alternative algorithms.
