@@ -239,10 +239,9 @@ Two deep learning models, Long Short-Term Memory (LSTM) and Gated Recurrent Unit
 ## Further steps that can be tested:
 
 **Ensemble Modeling:** Exploration of ensemble modeling can be conducted, combining the strengths of multiple models to enhance predictive performance.
+[Reference](https://www.kaggle.com/code/aslanahmedov/walmart-sales-forecasting/notebook#Background)
 
 
 ## In conclusion:
 The current iteration has seen progress in the exploration, tuning, and experimentation of models.
 Exponential smoothing and LSTM models performed better than the previously used ARIMA model on the Walmart sales forecasting data.
-
-###### [Reference](https://www.kaggle.com/code/aslanahmedov/walmart-sales-forecasting/notebook#Background)
