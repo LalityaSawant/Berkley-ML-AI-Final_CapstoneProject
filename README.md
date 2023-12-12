@@ -246,5 +246,3 @@ The current iteration has seen progress in the exploration, tuning, and experime
 Exponential smoothing and LSTM models performed better than the previously used ARIMA model on the Walmart sales forecasting data.
 
 ###### [Reference](https://www.kaggle.com/code/aslanahmedov/walmart-sales-forecasting/notebook#Background)
-##### Contact and Further Information
-Author: Lalitya Sawant
